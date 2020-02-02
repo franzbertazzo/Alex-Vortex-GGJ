@@ -1,0 +1,45 @@
+Created and Produced by
+Guará Game Studio
+
+Project Manager
+Augusto Barbosa Faria
+
+Level Designer
+Franz Bertazzo
+
+Game Designers
+Augusto Barbosa Faria
+Evandro Lopes
+Franz Bertazzo
+Leandro Dornela
+
+Programmers
+Leandro Dornela
+Franz Bertazzo
+
+2D Artists
+Evandro Lopes
+Herbert Dariel
+
+3D Artists
+Leandro Dornela
+Evandro Lopes
+
+Audio Designers
+Augusto Barbosa Faria
+Evandro Lopes
+Franz Bertazzo
+Leandro Dornela
+
+Music
+Outrun Synthwave Demo by Lionshare Sound is Royalty Free
+Happiest Days by Three Chains Link is licensed under Creative Commons Attribution-ShareAlike 3.0 - http://youtu.be/iKvooN2uD9Q
+
+References:
+NiseMegaDriveBR.TTF Ver.1.0 in http://actselect.chips.jp/fonts/font.htm licensed for noncomercial use;
+BIG JOHN font by Ion Lucin in https://befonts.com/big-john-slim-joe-font.html licensed as free to use;
+Streamster font by Youssef Habchi licensed as free to use;
+AXIS typeface font by Jean Wojciechowski licensed as free to use;
+Retrowave Background art by Hayny licensed as Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License;
+Orion clipart by anonymous artist licensed as royalty free.
+

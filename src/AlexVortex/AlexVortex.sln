@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlexVortex", "AlexVortex.csproj", "{D5B66070-ED31-4ADD-E2EA-F163063F73F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlexVortex.Editor", "AlexVortex.Editor.csproj", "{2FFC86C3-9068-64A8-E5DC-03EC92EC2DAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5B66070-ED31-4ADD-E2EA-F163063F73F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B66070-ED31-4ADD-E2EA-F163063F73F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B66070-ED31-4ADD-E2EA-F163063F73F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B66070-ED31-4ADD-E2EA-F163063F73F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FFC86C3-9068-64A8-E5DC-03EC92EC2DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FFC86C3-9068-64A8-E5DC-03EC92EC2DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FFC86C3-9068-64A8-E5DC-03EC92EC2DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FFC86C3-9068-64A8-E5DC-03EC92EC2DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
